@@ -5,8 +5,7 @@
  * Return: always (Success)
  */
 
-int main (void)
-
+int main(void)
 {
 	char c;
 
