@@ -1,1 +1,1 @@
-The double linked lists project done on January 11th 2024
+The double linked project done on 11th January 2024
