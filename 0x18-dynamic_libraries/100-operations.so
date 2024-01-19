@@ -1,0 +1,57 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/**
+ * add - a func that adds two numbers
+ * @a: first perimeter
+ * @b: second perimeter
+ * Return: addition of two numbers
+ */
+void add(int a, int b)
+{
+	return (a + b);
+}
+
+/**
+ * sub - a func that subtracts two numbers
+ * @a: first perimeter
+ * @b: second perimeter
+ * Return: subtraction of two numbers
+ */
+void sub(int a, int b)
+{
+	return (a - b);
+}
+
+/**
+ * mul - a func multies two numbers
+ * @a: first perimeter
+ * @b: second perimeter
+ * Return: multiplies of two numbers
+ *
+void mul(int a, int b)
+{
+	return (a * b);
+}
+
+/**
+ * mod - returns remainder of two numbers
+ * @a: first perimeter
+ * @b: second perimeter
+ * Return: remainder of two numbers
+ */
+void mod(int a, int b)
+{
+	return (a % b);
+}
+
+/**
+ * mul - a func multies two numbers
+ * @a: first perimeter
+ * @b: second perimeter
+ * Return: multiplies of two numbers
+ *
+void mul(int a, int b)
+{
+	return (a * b);
+}
