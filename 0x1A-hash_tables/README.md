@@ -1,0 +1,1 @@
+A hash table is a data structure that allows you to store and retrieve values based on a key. It works by using a hash function to map the key to an index in an array. This index is where the corresponding value will be stored.
