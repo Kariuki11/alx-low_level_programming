@@ -1,0 +1,1 @@
+CMakefiles are tools used in C programming to automate the build process, manage dependencies, and ensure efficient compilation and linking of source code into executable programs or libraries across different platforms.
